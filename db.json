@@ -1,0 +1,16 @@
+{
+    "gifs": [
+        {
+            "id": 0,
+            "title": "hello world",
+            "url": "....",
+            "gif_id": "afadjgtfs"
+        },
+        {
+           "id": 1,
+            "title": "hello",
+            "url": "....",
+            "gif_id": "afadjgtfs"  
+        }
+    ]
+}
