@@ -6,8 +6,8 @@ const Pagination = props => {
              <button onClick={props.paginaAnterior} type="button" className="btn btn-info mr-1">Anterior &larr;</button>
              <button onClick={props.paginaProxima} type="button" className="btn btn-info">Próximo &rarr;</button>
         {
-         window.scrolltop(0, 0)
-}
+         window.scrollTo(0, 0)
+        }
  
         </div>
     )
